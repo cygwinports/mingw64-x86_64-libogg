@@ -2,8 +2,8 @@ CROSS_HOST="x86_64-w64-mingw32"
 inherit cross
 
 NAME="mingw64-x86_64-libogg"
-VERSION=1.3.1
-RELEASE=2
+VERSION=1.3.2
+RELEASE=1
 CATEGORY="Devel"
 SUMMARY="Xiph OGG container library for Win64 toolchain"
 HOMEPAGE="http://www.xiph.org/ogg/"
